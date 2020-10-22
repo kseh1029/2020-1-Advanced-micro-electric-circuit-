@@ -1,1 +1,1 @@
-# 2020-1-Advanced-micro-electric-circuit-
+2020년도 1학기 : 전자회로론 (ELEC702002)
