@@ -1,0 +1,17 @@
+﻿구분,uA741 datasheet,PSpice uA741
+Input offset voltage,1mV,19.337uV
+Input offset current,20nA,0.038nA
+Input bias current,80nA,79.742nA
+Input resistance,2MΩ,996.3kΩ
+Output resistance,75Ω,152Ω
+Output short circuit current,25mA,25.29mA
+Supply current,1.7mA,1.667mA
+Power consumption,50mW,50.01mW
+Input voltage range for a voltage follower,15V,14.816V
+Output voltage swing for a voltage follower,15V,14.816V
+Common mode rejection ratio,90dB,90dB
+Open loop voltage gain as a function of frequency,-,plot image 첨부
+Open loop phase response as a function of frequency,-,
+Unity gain bandwidth,1MHz,888.083KHz
+Gain/phase margin,-,54.245dB  / 62.801∘
+Slew rate,0.5 V/us,0.4 V/us
